@@ -1,0 +1,26 @@
+*{margin:0; padding:0;}
+#container{ width:80%; margin:10px auto;}
+#header,#footer{ width:1050px; height:130px; margin:5px;text-align:center;}
+#header2 { width:850px; height:130px; margin:5px;text-align:center;}
+#header1 { width:250px; height:130px; margin:5px;text-align:center;}
+#header1, header2{float:left}
+#header1{clear:both}
+#nav{ width:1050px; height:70px; margin:5px; background-color: #00F;}
+#links{ width:1050px; height:350px; margin:5px;padding:0;background-color:#09C; background-image:url(2307759-colorful-bright-ink-splashes-and-kids-jumping-on-blue-background.jpg);}
+#links,#content,#products{float:left}
+#footer{clear:both}
+#products{ width:75%; margin:5px;}
+.p1{ width:95%; height:250px; margin:5px;}
+.image{ width:40%; height:240px; margin:5px;}
+.details{ width:55%; height:240px; margin:5px;}
+.image,.details{float:left}
+span{color:#C33; font-size:16px; text-decoration:line-through;}
+#nav a{color:#F30;font-family:Georgia, "Times New Roman", Times, serif;padding:20px;width:164px; height:200px;/*text-align:center;*/display:inline-block;text-decoration:none;letter-spacing:1px;border-left:2px solid #fff; text-align: center;}
+#nav a:hover{background-color:#fff;color:#09C;text-decoration:underline;letter-spacing:3px;}
+#header2 h1{font-family:"Comic Sans MS", cursive;}
+li{border-bottom:0px solid #FFF; list-style-type:none; height:70px; margin-top:10px; text-align:center; color: #000;}
+li{color: #333;}
+li a:hover{background-color:#FFF;color:#09F;text-decoration:underline;}
+.contact{text-align:center;}
+marquee{color:#0F0;}
+#footer {color:#F30;}
